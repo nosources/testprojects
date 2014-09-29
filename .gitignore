@@ -44,5 +44,7 @@
 
 *.xcuserstate
 *.xcbkptlist
-project.xcworkspace/*.*
-xcuserdata/*.*
+*.xcworkspacedata
+*.xccheckout
+*.xcscheme
+xcschememanagement.plist
