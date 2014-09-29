@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "head:hash.c">
+      </ContextState>
+      <ContextState
+         contextName = "hashcreate:hash.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "(int)t-&gt;mark">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "present:hash.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "t-&gt;list[h]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lua_execute:opcode.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "top">
+            </PersistentString>
+            <PersistentString
+               value = "tablebuffer">
+            </PersistentString>
+            <PersistentString
+               value = "stack">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "lua_createarray:hash.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "sizeof(Node)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(ArrayList)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(Node*)">
+            </PersistentString>
+            <PersistentString
+               value = "sizeof(Hash)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
