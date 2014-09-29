@@ -38,9 +38,6 @@
 *.pyc
 *.pyo
 *.rej
-*~
-#*#
-.#*
 .*.swp
 .DS_Store
 *.class
