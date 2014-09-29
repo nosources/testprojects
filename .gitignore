@@ -44,3 +44,5 @@
 
 *.xcuserstate
 *.xcbkptlist
+project.xcworkspace/*.*
+xcuserdata/*.*
